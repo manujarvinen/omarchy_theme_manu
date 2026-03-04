@@ -7,5 +7,5 @@ A theme for Omarchy.
 ## Installation
 
 ```
-omarchy-theme-install https://github.com/manujarvinen/manu
+omarchy-theme-install https://github.com/manujarvinen/omarchy_theme_manu
 ```
